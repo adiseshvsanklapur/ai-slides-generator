@@ -1,0 +1,1 @@
+﻿The creation of AI has completely changed the way in how people create presentations. This project will essentially use the automation that AI provides in order to convert text into slides in a super efficient manner. The extracted content will then be summarized utilizing numerous different AI techniques.

@@ -1,0 +1,8 @@
+.venv/
+uv/
+uploads/
+output/
+__pycache__/
+*.pyc
+.env
+*.pptx
